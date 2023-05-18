@@ -1,25 +1,25 @@
 # Hi, Digital Universe! 👋 I'm Tej, your resident Tech Maverick!
 
-![Teja Sai Pavan Banner](https://github.com/sai-pavan-tej/TejaSaiPavan-Profile/assets/45265790/941686d3-3a6e-44be-9eac-ac9070065583)
+![Teja Sai Pavan Banner 1](https://github.com/sai-pavan-tej/TejaSaiPavan-Profile/assets/45265790/565cd0e9-b530-4041-8a39-bfec8fbabb62)
 
 I'm a highly skilled Software Engineer, Salesforce CPQ Developer, WebTech with IoT enthusiast, and a perpetual explorer of tech. I make bits and bytes dance to the tune of '0' and '1'. 
 
-## Finding the 'fun' in 'functions' 😎
+## Turning caffeine into code since 2016 😎
 
-Currently, I'm diving deep into the Salesforce ecosystem and exploring the enigmatic world of IoT. I'm the proud creator of innovative projects such as **ShopGo**, **Bus Management System**, and cutting-edge **AR/VR projects**.
+Currently, I'm diving deep into the Salesforce ecosystem and exploring the enigmatic world of web with IoT. I'm the proud creator of innovative projects such as **ShopGo**, **IntelliBusLogger**, and cutting-edge **AR/VR projects**.
 
-### 🛠️ Skills & Tools:
+### 🛠️ My Tech Toolbox 🧰
 
-- **Web Technologies**: HTML, CSS, Bootstrap, Spring Boot
-- **Salesforce.com**: CPQ Admin, Development and LWC
-- **Programming Languages**: Python, JavaScript, Java, Dart, C, C++
-- **Designing Tools**: Figma, Adobe PhotoShop, PremierPro
-- **Network Skills**: Internet of Things
-- **Software & Tools**: Git/GitHub, Postman, Unity Game Engine, MS Office, Latex
+- **🌐 Web Technologies**: HTML, CSS, Bootstrap, Spring Boot
+- **🖥️ Salesforce.com**: CPQ Admin, Development and LWC
+- **💻 Programming Languages**: Python, JavaScript, Java, Dart, C, C++
+- **🖌️ Designing Tools**: Figma, Adobe PhotoShop, PremierPro
+- **☁️ Network Skills**: Internet of Things
+- **⚙️ Software & Tools**: Git/GitHub, Postman, Unity Game Engine, MS Office, Latex
 
-### 📫 Get in touch
+### 📫 Connect with me:
 
-- LinkedIn: [Teja Sai Pavan LinkedIn](https://www.linkedin.com/in/teja-sai-pavan-99b68915a/)
+- LinkedIn : [teja-sai-pavan](https://www.linkedin.com/in/teja-sai-pavan-99b68915a/)
 - Twitter: [TejaSaiPavan2](https://twitter.com/Tejasaipavan2)
 
 ### 🚀 Fun Fact 
